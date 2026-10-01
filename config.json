@@ -1,0 +1,22 @@
+{
+  "_说明": "device 用 01_get_device.py 在装了 Qoder 客户端的 Windows 上取；notify 里填推送。首次部署只改 device 即可。",
+  "device": {
+    "clientType": "10",
+    "machineOS": "x86_64_windows",
+    "machineHostname": "DESKTOP-633J489",
+    "machineId": "44246cd9-6adb-45d0-bd54-c13fa66d42da",
+    "machineToken": "P1gACa39kVWCUxoZy7Lmt41chMniuIp8oPv2qOYanPhMAetd3_LwbwypEe6i5SbxibVeJ2XfDdfjihxvBidXpsZ0",
+    "machineCode": "38a381520034aac850",
+    "machineType": "13fc94419140c338cf",
+    "version": "0.3.4"
+  },
+  "notify": {
+    "qywxToken": "",
+    "plusplusToken": "",
+    "webhook": ""
+  },
+  "baseUrls": [
+    "https://openapi.qoder.com.cn"
+  ],
+  "refreshMarginH": 72
+}
